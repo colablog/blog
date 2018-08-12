@@ -4,3 +4,6 @@
 > 座右铭： 生活不止裆下的苟且，还有未知的bug和看不懂的code
 * * *
 ## 前端新人请多指教
+`document.documentElement`
+* * *
+[百度一下](http://baidu.com)
