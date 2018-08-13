@@ -7,3 +7,5 @@
 `document.documentElement`
 * * *
 [百度一下](http://baidu.com)
+* * *
+> 码生为梦，笔耕不辍
