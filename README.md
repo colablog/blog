@@ -6,6 +6,7 @@
 ## 前端新人请多指教
 `document.documentElement`
 * * *
-[百度一下](http://baidu.com)
+## 2018-8-13
+[javascropt的call(),aplay(),bind()](https://github.com/colablog/javascript/blob/master/README.md)
 * * *
 > 码生为梦，笔耕不辍
